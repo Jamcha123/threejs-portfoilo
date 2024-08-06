@@ -1,2 +1,2 @@
-# threejs-game
-this is a threejs game
+# threejs-portfoilo
+this is my threejs portfoilo
